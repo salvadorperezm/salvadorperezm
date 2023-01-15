@@ -44,5 +44,3 @@ In constant pursuit of excellence.
 
 ## :bar_chart: Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salvadorperezm&theme=prussian&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvadorperezm&theme=prussian&hide_border=true&border_radius=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
